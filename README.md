@@ -14,7 +14,7 @@
 
 将以下代码粘贴至Replit Shell后回车
 
-`git clone https://github.com/valetzx/alist-build-on-replit && mv -b musiconreplit/* ./ && mv -b musiconreplit/.[^.]* ./ && rm -rf *~ && rm -rf musiconreplit`
+`git clone https://github.com/valetzx/musiconreplit && mv -b musiconreplit/* ./ && mv -b musiconreplit/.[^.]* ./ && rm -rf *~ && rm -rf musiconreplit`
 
 当加载完 Loading Nix environment... 后点击绿色 ▶ Run
 
