@@ -2,7 +2,7 @@
 在 Replit 部署 YesPlayMusic 网页端（自带NeteaseCloudMusicApi）
 
 先运行 first.sh 初始化
-在shell中运行 sh first.sh 进行初始化，初始化完成后点绿色Run 运行
+在shell中运行 `sh first.sh` 进行初始化，初始化完成后点绿色Run 运行
 
 个人版：
 
